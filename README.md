@@ -1,6 +1,4 @@
-### Opa ('◡')/
-
-- Atualmente estou estudando JavaScript
+## Opa ('◡')/
 
 <div align="center">
   <a href="https://github.com/Pedro-Andre">
