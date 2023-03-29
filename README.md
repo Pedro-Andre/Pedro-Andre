@@ -17,7 +17,6 @@
   ##
   
   <div> 
-    <a href="https://www.instagram.com/pedroo.andre/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF6BB5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://codepen.io/pedroo_andre/pens/public" target="_blank"><img src="https://img.shields.io/badge/CodePen-1A1A1F?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
   <a href="https://dribbble.com/pedroo_andre" target="_blank"><img src="https://img.shields.io/badge/-Dribbble-%23E4405F?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank"></a>
  	<a href="https://www.figma.com/@pedroandre" target="_blank"><img src="https://img.shields.io/badge/Figma-9146FF?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a> 
