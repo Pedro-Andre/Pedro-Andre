@@ -1,8 +1,6 @@
 ## Opa ('◡')/
 
-#### Me chamo Pedro, sou estudante de análise e desenvolvimento de sistemas.
-
-##
+#### Me chamo Pedro, sou estudante de análise e desenvolvimento de sistemas 🙂.
 
   <!-- tech icons -->
   ### Techs:
@@ -27,6 +25,8 @@
   <a href="https://www.instagram.com/pedro.stuff" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23ff0062?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@pedroo-andre" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
 </div>
+
+##
   
 <div align="center" style="display: inline_block">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Andre&layout=compact&langs_count=7&theme=tokyonight"/>
