@@ -1,6 +1,5 @@
 ## Opa 👋
-
-#### Me chamo Pedro, sou um dev Full Stack com foco em Desenvolvimento Mobile.
+### Me chamo Pedro, sou um dev Full Stack com foco em Desenvolvimento Mobile.
 
 ## Techs:
 
@@ -21,7 +20,7 @@
   <a href="https://medium.com/@pedroo-andre" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
 </div>
 
-##
+## 
 
 <div align="center" style="display: inline_block">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Andre&layout=compact&langs_count=7&theme=tokyonight"/>
