@@ -23,6 +23,6 @@
   
 | Tecnologias | Ferramentas |
 | ----------- | ----------- |
-| [![My Skills](https://skillicons.dev/icons?i=js,ts,java,nodejs,html,css,mysql,mongodb,postgres,react,angular,vite&perline=5)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=github,git,figma,vscode,codepen&perline=5)](https://skillicons.dev)
+| [![My Skills](https://skillicons.dev/icons?i=js,ts,java,nodejs,html,css,mysql,mongodb,postgres,react,angular,vite,bootstrap&perline=5)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=github,git,figma,vscode,postman,codepen&perline=5)](https://skillicons.dev)
 
 
