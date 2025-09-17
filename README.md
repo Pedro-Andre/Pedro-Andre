@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/pedro.stuff" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%231A1A1F?style=for-the-badge&logo=instagram&logoColor=0af"></a>
 
 <div align="center">
-<img height=380 src="https://github-readme-stats.vercel.app/api?username=Pedro-Andre&show_icons=true&bg_color=70,00000070,00aacc&title_color=fff&text_color=eee&hide_border=true&border_radius=15&include_all_commits=true&text_bold=false"/> <img width=350 height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Andre&layout=compact&size_weight=0.2&count_weight=0.5&langs_count=10&bg_color=70,00000070,00aacc&title_color=fff&text_color=eee&text_bold=true&hide_border=true&border_radius=15&hide=RenderScript"/>
+<img height=350 src="https://github-readme-stats.vercel.app/api?username=Pedro-Andre&show_icons=true&bg_color=70,00000070,00aacc&title_color=fff&text_color=eee&hide_border=true&border_radius=15&include_all_commits=true&text_bold=false"/> <img width=350 height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Andre&layout=compact&size_weight=0.2&count_weight=0.5&langs_count=10&bg_color=70,00000070,00aacc&title_color=fff&text_color=eee&text_bold=true&hide_border=true&border_radius=15&hide=RenderScript"/>
 </div> 
 
 <h2>Tecnologias e Ferramentas:</h2>
