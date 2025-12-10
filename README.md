@@ -9,7 +9,7 @@ Aqui você encontrará projetos voltados para Desenvolvimento Web, APIs, Bancos 
 
 - Desenvolvedor Full Stack em formação, com experiência prática usando JavaScript, TypeScript, Node.js, React, SQL e Prisma.
 - Estudando Análise de Dados com foco em SQL, Python, Power BI e visualização de dados.
-- Aderência a boas práticas e estou em constante busca pelo aperfeiçoamento profissional
+- Aderência a boas práticas e estou em constante busca pelo aperfeiçoamento profissional.
 
 ## 🎯 Objetivo Profissional
 
