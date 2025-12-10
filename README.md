@@ -33,7 +33,7 @@ APIs RESTful com Node.js, Express e Prisma
 
 - [**Dashboard Comercial**](https://github.com/Pedro-Andre/Dashboard-Comercial): Dashboard para visualizção de vendas durante os anos de uma empresa
 
-- [**Checkerly**](https://github.com/Pedro-Andre/Studyplan): Um aplicativo para registrar presença em eventos com QR code, gerenciar participantes e emitir certificados. 
+- [**Checkerly**](https://github.com/Pedro-Andre/Checkerly-FrontEnd): Um aplicativo para registrar presença em eventos com QR code, gerenciar participantes e emitir certificados. 
 
 
 ## 📬 Redes sociais e Contato
